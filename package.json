@@ -1,0 +1,11 @@
+{
+  "name": "com.p3k.unitystringdropdown",
+  "version": "1.0.0",
+  "displayName": "Unity String Drop Down",
+  "description": "",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/UnityStringDropDown/#readme",
+  "author": {
+    "name": "P3k"
+  }
+}
